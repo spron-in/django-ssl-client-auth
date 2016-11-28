@@ -59,3 +59,5 @@ Please do ask your questions on http://stackoverflow.com/
 I am active there, and more likely to answer you publicly.
 Also, you can try catching Kimvais on #django@freenode
 
+On Aladdin eTokens you can get help from Sergey Pronin at s@spron.in. Cheers.
+
