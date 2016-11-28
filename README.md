@@ -46,7 +46,7 @@ For details, see `testapp/ssltest/settings.py`
 #### Smart Card support
 
 For (Finnish) instructions see `doc/fineid/FINEID.md`
-
+For Aladdin eToken see `doc/aladdin/ALADDIN.md`
 
 ## TODO
 

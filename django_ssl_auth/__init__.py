@@ -23,3 +23,4 @@
 #
 from .base import SSLClientAuthBackend, SSLClientAuthMiddleware
 from . import fineid
+from . import aladdin
